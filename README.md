@@ -1,2 +1,2 @@
 # Gramseva
-Digital hatt for te local services
+Digital haat for the local services
